@@ -3,7 +3,7 @@ const int luzroja = 12;
 const int luzverde = 11;
 conet int bomba = 10;
 
-int estado = 1;
+int estado = 0;
 
 void setup() {
   Serial.begin(9600);
